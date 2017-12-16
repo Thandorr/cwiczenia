@@ -1,0 +1,1 @@
+<javascript>Nowy script</javascript>
