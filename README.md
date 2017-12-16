@@ -1,4 +1,4 @@
-# cwiczenia
+﻿# cwiczenia
 cwiczenia_16_12_17
 
 
@@ -8,4 +8,4 @@ W skład naszej grupy wchodzi:
 - oehsaye (Oskar Samborski)
 
 
-Pozdawiamy serdecznie :)
+Pozdawiamy serdecznie :) :)
